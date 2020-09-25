@@ -1,0 +1,1 @@
+|±m_<?php exit; ?>a:1:{s:7:"content";a:6:{s:6:"tokens";a:1:{i:0;a:2:{i:0;a:1:{s:16:"amp-img:not([_])";a:1:{i:0;a:1:{i:0;s:7:"amp-img";}}}i:1;a:1:{i:0;s:13:"display:block";}}}s:18:"validation_results";a:0:{}s:18:"imported_font_urls";a:0:{}s:4:"hash";s:32:"e7a43fe50e783c8d00406648df12f37c";s:10:"parse_time";d:0.0021491050720214844;s:14:"viewport_rules";a:0:{}}}
