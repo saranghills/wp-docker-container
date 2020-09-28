@@ -388,11 +388,6 @@ function wpse255804_redirect_page_template ($template) {
     }
 add_filter ('page_template', 'wpse255804_redirect_page_template');
 
-if ('submit-your-application' == get_post_field( 'post_name', $post->post_parent )) {
-    get_template_part( WP_PLUGIN_DIR . '/save-form-plugin/includes/page-template/page-submit-your-application.php', 'page' );
-    exit;
-  }
-
 /**
  * Ajax operations for saving data from the form
  * Checks for duplicate on the email field (ignoring other fields for now)

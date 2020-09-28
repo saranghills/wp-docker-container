@@ -455,3 +455,31 @@
 [25-Sep-2020 09:23:35 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
 [25-Sep-2020 09:25:35 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
 [25-Sep-2020 09:25:35 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[25-Sep-2020 16:17:31 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[25-Sep-2020 16:17:31 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[25-Sep-2020 16:17:34 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[25-Sep-2020 16:17:34 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[25-Sep-2020 16:17:34 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[25-Sep-2020 16:17:34 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[25-Sep-2020 16:17:34 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[25-Sep-2020 16:17:35 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:20 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:20 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:24 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:24 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:24 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:24 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:27 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:27 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:32 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:32 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:33 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:33 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:33 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:33 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:33 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:33 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:33 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:33 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:34 UTC] PHP Notice:  Undefined variable: post in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391
+[27-Sep-2020 17:00:34 UTC] PHP Notice:  Trying to get property 'post_parent' of non-object in /bitnami/wordpress/wp-content/plugins/save-form-plugin/save-form-plugin.php on line 391

@@ -1,9 +1,9 @@
 <div class="container"> 
-    <h2 class="h2 form-title text-center text-uppercase font-weight-bold mt-md-5 mb-md-5 pt-5 pb-5">SUbmit your Application</h2>
+    <h2 class="h2 form-title text-center text-uppercase font-weight-bold sfp20_form_heading">Submit your Application</h2>
 
 <div class="form-wrap">
 
-    <div class="col-md-10 mb-5">
+    <div class="col-lg-10 mb-5">
         <h3><strong>Personal Information</strong></h3>
         <h4>Please fill in all mandatory fields</h4>
     </div>
@@ -30,7 +30,7 @@
 
             <div class="form-group col-md-6 pr-md-4">
             <select  name="country" id="u_country" class="form-control sfp20_select" aria-label="Select Country from the list" >
-                        <option value="">Select Country</option>
+                        <option value="">Choose Country</option>
                         <option value="Afghanistan">Afghanistan</option>
                         <option value="Åland Islands">Åland Islands</option>
                         <option value="Albania">Albania</option>
@@ -282,20 +282,22 @@
             <input type="date" class="form-control date-picker" name="u_dob" id="u_dob" placeholder="Date of Birth" aria-label="Enter your Date of Birth"  >
             </div>
 
-            <div class="col-12 border-top pt-5 mt-3"></div>
+            <div class="col-12">
+                <div class=" sfp20_divider d-none"></div>
+            
 
             <div class="submit_message col-12 text-center"  id="form_submit_message" ></div>
 
-            <div class="form-check pb-5">
+            <div class="form-check">
                 <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" aria-label="Accept Terms and Conditions"  required>
                 <label class="form-check-label" for="defaultCheck1">
-                    I have read and agree to the <strong>Terms and Conditions</strong> and the <strong>Privacy Policy</strong>
+                    I have read and agree to the <a href="#" title="Terms and Conditions">Terms and Conditions</a> and the <a href="#" title="Terms and Conditions">Privacy Policy</a>
                 </label>
             </div>
-
+            </div>
             <?php wp_nonce_field( 'sfp20_form_nonce', 'sfp20_form_nonce_field' ); ?>
 
-            <div class="col-12 text-center text-md-left">
+            <div class="col-12 text-center text-md-left pl-2">
             <button type="submit" class="btn btn-primary btn-lg text-uppercase" id="form_submit_button" aria-label="Submit the Form" >Submit ></button>
             </div>
             <div class="col-12 text-center d-md-none position-absolute form-image">

@@ -1,1 +1,1 @@
-’·m_<?php exit; ?>a:1:{s:7:"content";a:2:{s:6:"WPLANG";b:1;s:30:"finished_updating_comment_type";b:1;}}
+lTq_<?php exit; ?>a:1:{s:7:"content";a:1:{s:6:"WPLANG";b:1;}}

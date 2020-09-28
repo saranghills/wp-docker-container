@@ -1,59 +1,168 @@
 body{
     background:#EFF3F8;
     font-family: 'Exo', sans-serif;
+    /* box-sizing: border-box; */
 }
 .form-title {
     color: #B1BCCA;
 }
 .form-wrap{
     max-width: 974px;
+    max-height: 705px;
     background: #FAFAFA url('Image.png');
     background-repeat: no-repeat;
     background-position-x: right;
     background-position-y: bottom;
     box-shadow: 0px 4px 44px -1px rgba(0, 0, 0, 0.07);
-    padding: 32px 63px 150px;
-    margin: auto 50px;
+    padding: 32px 48px 150px;
+    margin: 50px auto;
+
 }
-.form-wrap input, .form-wrap select {
-    border-color: #686868;
+.form-wrap h3, .sfp20_form_heading {
+    font-size:21px;
+    line-height: 27.91px;
+    font-weight: 700;
+    margin-bottom: 18px;
 }
-.sfp20_select {
-   
-    height: 5.7rem!important;
-    border: 1px solid #ced4da;
-    font-size: 1.6rem;
+.form-wrap h4 {
+    font-size: 19px;
+    line-height: 25.25px;
+    font-weight: 400;
+    color: #686868;
+    margin-bottom: 41px;
+}
+.sfp20_form_heading {
+    margin: 80px auto 46px;
+}
+
+input[type="text"], 
+input[type="email"], 
+input[type="date"], 
+input[type="number"], 
+input[type="tel"],
+.sfp20_select{
+    border:1px solid #686868;
+    background:none;
+    width: 335px;
+    height: 48px;
+    padding: 12px 15px;   
+}
+input[type="checkbox"]{
+    width: 24px;
+    height: 24px;
+    margin-right: 14px;
+
+}
+input[type="checkbox"]:checked::before{
+    margin: 0px 3px 2px;
+    content:'✔';
+    color: green;
+    font-size: 18px;
+}
+.form-wrap ::placeholder {
+    font-size: 15px;
+    line-height: 19.94px;
+    font-weight: 400;;
+    color: #000;
+}
+select.form-control:not([size]):not([multiple]) {
+   font-size: 15px;
+    height: 48px;
+    padding-top: 9px;
+
 }
 .form-group {
     margin-bottom: 28px;
 }
 .sfp20_divider{
-    border-top: 1px dotted #333;
-    height: 1px;
+    border-top: 1px dashed #949494;
+    height: 2px;
+    margin: 25px 0 47px;
 }
 .form-wrap button {
     font-size: 2rem;
     background: #61A4D9;
     border-radius: 0;
-    padding: 10px 50px;
+    border: none;
+    padding: 11.5px 50px;
     font-weight: bold;
+    font-size: 17px;
+    line-height: 167.9%;
+    text-align: center;
 }
-
+.form-check {
+    padding-left: 0;
+    padding-bottom: 37px;
+    display: flex;
+}
+.form-check-input {
+    margin-right: 14px;
+}
+.form-check-label {
+    margin-top: 2px;
+}
+.form-check-label a{
+    font-weight: bold;
+    color: #000;
+}
+.form-check-label a:hover{
+    text-decoration: underline;
+}
 @media only screen and (max-width:768px){
     .form-wrap{
-        padding: 32px 8px 190px;
-        margin: auto;
+        padding: 32px 8px 160px;
+        margin: auto auto 300px;
         box-shadow: none;
         background-image: none;
         position: relative;
+        max-height: 790px;
+    }
+    .sfp20_form_heading {
+        margin: 50px auto 34px;
+    }
+    .form-wrap h3 {
+        font-size: 15.4359px;
+        line-height: 21px;
+        margin-bottom: 0;
+    }
+    .form-wrap h4 {
+        font-size: 13px;
+        line-height: 19px;
+        margin-bottom: 28px;
     }
     .form-group {
-        margin-bottom: 25px;
+        margin-bottom: 22px;
+    }
+    input[type="text"], 
+    input[type="email"], 
+    input[type="date"], 
+    input[type="number"], 
+    input[type="tel"],
+    .sfp20_select{
+        height: 41px;
+    }
+    select.form-control:not([size]):not([multiple]){
+        width: 100%;
+        height: 41px;
+    }
+    input[type="checkbox"]{
+        width: 40px;
+        height: 24px;
+        margin-right: 14px;
+        margin-top: 7px;
+    }
+    .form-check {
+        padding-bottom: 31px;
+    }
+    .form-check-label {
+        font-size: 13px;
+        line-height: 22px;
     }
     .form-image{
-        bottom: -280px;
+        bottom: -220px;
     }
     .form-image img {
         margin: 0 auto;
+        width: 215px;
     }
 }

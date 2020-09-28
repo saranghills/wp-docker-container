@@ -7,5 +7,4 @@ get_header();
 
 the_content();
 ?>
-
 <?php wp_footer(); ?>
